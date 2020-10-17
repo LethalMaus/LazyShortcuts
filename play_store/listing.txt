@@ -1,0 +1,17 @@
+﻿Lazy Wi-Fi Shortcut
+
+A very lazy Android system shortcut that jumps to your phone Wi-Fi settings
+
+Have you ever been so lazy, that you couldn't be bothered navigating the settings to find and change a specific part of it such as Wi-Fi or Languages? Especially with a new phone, or when the phone is in a different language?
+
+Then fret no more!
+
+These lazy apps (yes more than one) will each navigate to your phone settings as defined. They're so lazy, that the app contains only 3 lines of code!
+
+The app will open, tell the phone 'Hey! open this setting for me will ya!' and then close again. It does nothing else, literally.
+
+No advertising, no extra presses, no views to be seen, literally just opens, sends the intent and closes. Don't believe me? Take a look at the code! It's open source.
+
+'But why create and release this app if this is all what it does?'
+I work as an app developer in the IoT field and I test quite a few apps and IoT devices. These tests are ran on multiple phones with different languages and need to be constantly adjusted (changing the Wi-Fi network or the system language for example). Time is crucial and so are my nerves so if I find a way to make the process more 'lazy' then I will. 
+I looked first to see if other apps were available only to find that the majority require opening the app and then pressing a button (just to show some advertising). I'm not a fan of that and I get a kick out doing something like this so its a win-win for me (and possibly you)
