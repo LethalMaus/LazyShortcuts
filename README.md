@@ -36,7 +36,7 @@ Feel free to add more flavors or ask me to do it for you.
 
 ## Contact
 
-Email: [DescriptiveAnimals@gmail.com](mailto:DescriptiveAnimals@gmail.com?subject=[GitHub]%20StreamingYorkie)
+Email: [info@jamescullimore.dev](mailto:info@jamescullimore.dev?subject=[GitHub]%20LazyShortcuts)
 
 For any issues, questions or change requests, feel free to ask on [Discord](https://discord.gg/Q59afsq). I will get back to you as soon as I can.
 
@@ -44,15 +44,12 @@ Become a [Patron](https://www.patreon.com/LethalMaus). Help decide what my main 
 
 Any [support or donations](https://paypal.me/JamesCullimore/2,50) are highly appreciated (but not expected) & go towards improving development & entertainment.
 
-I also love to entertain, game & stream as a hobby on [Twitch](https://www.twitch.tv/lethalmaus). If you're interested, come & say 'Hi'.
-
 I'm also on [LinkedIn](https://www.linkedin.com/in/james-cullimore-042ab397/). Here you will find my development preferences & experiences.
 
 Click on one of the images below to be redirected a designated site.
 
 <p align="center">
   <a href="https://discord.gg/Q59afsq"><img src="https://lethalmaus.github.io/StreamingYorkie/streaming_yorkie/src/main/res/drawable/discord.webp" height="60"></a>
-  <a href="https://www.twitch.tv/lethalmaus"><img src="https://lethalmaus.github.io/StreamingYorkie/streaming_yorkie/src/main/res/drawable/twitch.webp" height="60"></a>
   <a href="https://www.patreon.com/LethalMaus"><img src="https://lethalmaus.github.io/StreamingYorkie/streaming_yorkie/src/main/res/drawable/patreon.webp" height="60"></a>
   <a href="https://paypal.me/JamesCullimore/2,50"><img src="https://lethalmaus.github.io/StreamingYorkie/streaming_yorkie/src/main/res/drawable/paypal.webp" height="60"></a>
 </p>

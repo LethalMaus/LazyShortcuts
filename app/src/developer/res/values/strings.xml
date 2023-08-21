@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lazy Developer Shortcut</string>
+    <string name="error">Can\'t open developer settings</string>
 </resources>
