@@ -9,8 +9,6 @@ android {
         applicationId "com.lethalmaus.lazy_shorcuts"
         minSdkVersion 21
         targetSdkVersion 36
-        versionCode 1
-        versionName "1.1"
     }
 
     buildTypes {
@@ -25,16 +23,22 @@ android {
             dimension "version"
             applicationIdSuffix ".wifi"
             versionNameSuffix "-wifi"
+            versionCode 3
+            versionName "1.2"
         }
         language {
             dimension "version"
             applicationIdSuffix ".language"
             versionNameSuffix "-language"
+            versionCode 3
+            versionName "1.2"
         }
         developer {
             dimension "version"
             applicationIdSuffix ".developer"
             versionNameSuffix "-developer"
+            versionCode 3
+            versionName "1.3"
         }
     }
     compileOptions {
